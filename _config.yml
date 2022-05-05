@@ -1,4 +1,4 @@
 - uses: "INTxK/Kaay@master"
       env:
-        FILE_NAME: "dir/output.txt"
+        FILE_NAME: "output.txt"
         FILE_DATA: "readme"
