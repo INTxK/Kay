@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Knowledge-Base](README.md)
+* [Personal Knowledge Management](README.md)
