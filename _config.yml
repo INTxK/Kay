@@ -1,7 +1,1 @@
-action "Create file" {
-  uses = "finnp/create-file-action@master"
-  env = {
-    FILE_NAME = "output.md"
-	FILE_DATA = "readme/"
-  }
-}
+
