@@ -1,2 +1,4 @@
-- name: Create File
-  uses: finnp/create-file-action@1.0.0
+- uses: "INTxK/Kaay@master"
+      env:
+        FILE_NAME: "dir/output.txt"
+        FILE_DATA: "readme"
