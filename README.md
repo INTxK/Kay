@@ -1,8 +1,4 @@
----
-coverY: 0
----
-
-# Personal Knowledge Management
+# Personal-Knowledge-Management
 
 ## What is Personal Knowledge Management
 
